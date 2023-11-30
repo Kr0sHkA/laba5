@@ -1,0 +1,3 @@
+﻿  laba5n2.cpp
+C:\Users\pisle\source\repos\laba5n2\laba5n2\laba5n2.cpp(40,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  laba5n2.vcxproj -> C:\Users\pisle\source\repos\laba5n2\x64\Debug\laba5n2.exe
